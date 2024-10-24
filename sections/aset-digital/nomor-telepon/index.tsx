@@ -1,10 +1,10 @@
-'use client'
+"use client";
 import { DataTable } from "@/components/custom/data-table";
 import Container from "@/components/custom/layouts/container";
 import React from "react";
 import { columns } from "./table/columns";
 import { CustomModal } from "@/components/custom/modal";
-import { useGetSekretariats } from "@/hooks/react-querry/sekretariat";
+import { useGetSekretariats } from "@/hooks/react-querry/use-sekretariat";
 
 const NomorTelepon = () => {
   const { data: sekretariats, isLoading, error } = useGetSekretariats();

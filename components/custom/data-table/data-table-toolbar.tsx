@@ -16,7 +16,9 @@ import { Label } from "@/components/ui/label";
 import { Combobox } from "@/components/ui/combobox";
 import { items } from "@/constants/media-sosial/data";
 import Link from "next/link";
-import { sekretariatOptions } from "@/sections/gedung";
+import userStore from "@/hooks/use-user-data";
+import { useGetSekretariatsById } from "@/hooks/react-querry/use-sekretariat";
+import { sekretariatOptionsAll } from "@/sections/gedung";
 
 interface DataTableToolbarProps<TData> {
   table: Table<TData>;
@@ -25,6 +27,19 @@ interface DataTableToolbarProps<TData> {
 export function DataTableToolbar<TData>({
   table,
 }: DataTableToolbarProps<TData>) {
+  const { user } = userStore();
+
+  const {
+    data: sekretariatOptions,
+    isLoading,
+    error,
+  } = useGetSekretariatsById(user?.id_pj_cabang || "");
+
+  // Variabel untuk menyimpan opsi data sekretariat
+  const dataOptions = user?.id_pj_cabang
+    ? sekretariatOptions
+    : sekretariatOptionsAll;
+
   const isFiltered = table.getState().columnFilters.length > 0;
   const globalFilterValue = table.getState().globalFilter ?? ""; // Get global filter state
   const { openDialog } = useDialogStore();
@@ -68,6 +83,9 @@ export function DataTableToolbar<TData>({
       openDialog(null, "gmaps");
     }
   };
+
+  if (isLoading) return <div>Loading...</div>;
+  if (error) return <div>Error loading menu</div>;
 
   return (
     <div className="flex items-center justify-between">
@@ -128,7 +146,7 @@ export function DataTableToolbar<TData>({
               <DataTableFacetedFilter
                 column={table.getColumn("unit")}
                 title="Sekretariat"
-                options={sekretariatOptions}
+                options={dataOptions || []}
               />
             )}
           </Fragment>
