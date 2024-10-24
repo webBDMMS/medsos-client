@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "branch": "Branch_45",
+      "account_name": "AccountName_1",
+      "numbers_of_day": "10",
+      "average_of_day": "5.2",
+      "phone": "081234567890",
+      "number_of_publication": "20",
+      "numbers_publication": "15",
+      "total_day": "30"
+    },
+    {
+      "id": "f1e2d3c4-b5a6-7890-abcd-ef0987654321",
+      "branch": "Branch_72",
+      "account_name": "AccountName_2",
+      "numbers_of_day": "12",
+      "average_of_day": "4.8",
+      "phone": "081298765432",
+      "number_of_publication": "18",
+      "numbers_publication": "13",
+      "total_day": "29"
+    },
+    {
+      "id": "a5b4c3d2-e1f6-7890-abcd-ef2109876543",
+      "branch": "Branch_18",
+      "account_name": "AccountName_3",
+      "numbers_of_day": "14",
+      "average_of_day": "6.0",
+      "phone": "081356789012",
+      "number_of_publication": "25",
+      "numbers_publication": "20",
+      "total_day": "35"
+    },
+    {
+      "id": "c5d4b3a2-e1f6-7890-abcd-ef1234987650",
+      "branch": "Branch_29",
+      "account_name": "AccountName_4",
+      "numbers_of_day": "8",
+      "average_of_day": "4.2",
+      "phone": "081467890123",
+      "number_of_publication": "22",
+      "numbers_publication": "18",
+      "total_day": "28"
+    },
+    {
+      "id": "e5f4d3c2-b1a6-7890-abcd-ef3412769085",
+      "branch": "Branch_53",
+      "account_name": "AccountName_5",
+      "numbers_of_day": "9",
+      "average_of_day": "5.0",
+      "phone": "081578901234",
+      "number_of_publication": "19",
+      "numbers_publication": "17",
+      "total_day": "27"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "branch": "Branch_45",
+      "account_name": "AccountName_1",
+      "numbers_of_day": "10",
+      "average_of_day": "5.2",
+      "phone": "081234567890",
+      "number_of_publication": "20",
+      "numbers_publication": "15",
+      "total_day": "30"
+    },
+    {
+      "id": "f1e2d3c4-b5a6-7890-abcd-ef0987654321",
+      "branch": "Branch_72",
+      "account_name": "AccountName_2",
+      "numbers_of_day": "12",
+      "average_of_day": "4.8",
+      "phone": "081298765432",
+      "number_of_publication": "18",
+      "numbers_publication": "13",
+      "total_day": "29"
+    },
+    {
+      "id": "a5b4c3d2-e1f6-7890-abcd-ef2109876543",
+      "branch": "Branch_18",
+      "account_name": "AccountName_3",
+      "numbers_of_day": "14",
+      "average_of_day": "6.0",
+      "phone": "081356789012",
+      "number_of_publication": "25",
+      "numbers_publication": "20",
+      "total_day": "35"
+    },
+    {
+      "id": "c5d4b3a2-e1f6-7890-abcd-ef1234987650",
+      "branch": "Branch_29",
+      "account_name": "AccountName_4",
+      "numbers_of_day": "8",
+      "average_of_day": "4.2",
+      "phone": "081467890123",
+      "number_of_publication": "22",
+      "numbers_publication": "18",
+      "total_day": "28"
+    },
+    {
+      "id": "e5f4d3c2-b1a6-7890-abcd-ef3412769085",
+      "branch": "Branch_53",
+      "account_name": "AccountName_5",
+      "numbers_of_day": "9",
+      "average_of_day": "5.0",
+      "phone": "081578901234",
+      "number_of_publication": "19",
+      "numbers_publication": "17",
+      "total_day": "27"
+    }
+  ]
+}

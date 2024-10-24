@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "d3f76416-7a97-4fd7-8e59-94f63218d7a1",
+      "city": "City_45",
+      "sekretariat": "Sekretariat_27",
+      "business_unit_name": "BusinessUnit_89",
+      "map_point": "MapPoint_0.123456",
+      "status": "Aktif"
+    },
+    {
+      "id": "b2a76459-3f47-4b98-b9c2-6a4b72f81d7e",
+      "city": "City_72",
+      "sekretariat": "Sekretariat_33",
+      "business_unit_name": "BusinessUnit_55",
+      "map_point": "MapPoint_0.654321",
+      "status": "Non Aktif"
+    },
+    {
+      "id": "e3c76412-8a57-4fc7-9e39-64f65218d7e4",
+      "city": "City_18",
+      "sekretariat": "Sekretariat_61",
+      "business_unit_name": "BusinessUnit_44",
+      "map_point": "MapPoint_0.789012",
+      "status": "Aktif"
+    },
+    {
+      "id": "a2d76419-9b87-4fd9-7e59-84d64218f7c3",
+      "city": "City_29",
+      "sekretariat": "Sekretariat_21",
+      "business_unit_name": "BusinessUnit_33",
+      "map_point": "MapPoint_0.345678",
+      "status": "Non Aktif"
+    },
+    {
+      "id": "c3b76418-1b37-4fb9-8c39-14f63218b7d8",
+      "city": "City_53",
+      "sekretariat": "Sekretariat_49",
+      "business_unit_name": "BusinessUnit_71",
+      "map_point": "MapPoint_0.901234",
+      "status": "Aktif"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+        "city": "Samarinda",
+        "sekretariat": "Badan Perencanaan dan Pengembangan Daerah (BAPPEDA)",
+        "address_sekretariat": "Jl. Pemuda No. 1, Kel. Sempaja, Kec. Samarinda Utara, Samarinda, Kalimantan Timur"
+      },
+      {
+        "id": "95042f5c-1e7c-4f1b-93c6-0f87f1c95d6f",
+        "city": "Balikpapan",
+        "sekretariat": "Dinas Pendidikan",
+        "address_sekretariat": "Jl. Pendidikan No. 1, Kel. Sempaja, Kec. Samarinda Utara, Samarinda, Kalimantan Timur"
+      },
+      {
+        "id": "6a4c6cc5-7f1f-405f-8f7c-9a6d66ba5c69",
+        "city": "Bontang",
+        "sekretariat": "Dinas Kesehatan",
+        "address_sekretariat": "Jl. Kesehatan No. 1, Kel. Sempaja, Kec. Samarinda Utara, Samarinda, Kalimantan Timur"
+      }
+    ]
+}
+

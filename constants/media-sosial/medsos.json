@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "957e2a2c-85f9-4a6e-8e1b-4c9b7f8b9f25",
+            "city": "Samarinda",
+            "account_name": "Dinas Pendidikan Samarinda",
+            "username": "dispksam",
+            "status": "Aktif"
+        },
+        {
+            "id": "5f2a2b5a-8d4b-4bfb-af93-6b5c5d5b5d5b",
+            "city": "Balikpapan",
+            "account_name": "Dinas Kesehatan Balikpapan",
+            "username": "dinkesbpl",
+            "status": "Non Aktif"
+        },
+        {
+            "id": "6a01c5a2-7a7c-4a4a-84e9-06cf7ba5c5c5",
+            "city": "Bontang",
+            "account_name": "Dinas Pemadam Kebakaran Bontang",
+            "username": "dinaspmkbontang",
+            "status": "Aktif"
+        },
+        {
+            "id": "4d504d50-4d50-4d50-4d50-4d504d504d50",
+            "city": "Samarinda",
+            "account_name": "Dinas Lingkungan Hidup Samarinda",
+            "username": "dinaslh_samarinda",
+            "status": "Non Aktif"
+        },
+        {
+            "id": "6a4c6cc5-d5d5-4f4f-8f7c-9a6d66ba5c69",
+            "city": "Samarinda",
+            "account_name": "Dinas Pertanian Samarinda",
+            "username": "dispertan_samarinda",
+            "status": "Aktif"
+
+        }
+    ]
+}

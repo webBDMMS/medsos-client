@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "branch": "Branch_45",
+      "account_name": "eyowwww",
+      "number_of_publication": "10",
+      "phone": "081234567890"
+    },
+    {
+      "id": "f1e2d3c4-b5a6-7890-abcd-ef0987654321",
+      "branch": "Branch_72",
+      "account_name": "king",
+      "number_of_publication": "15",
+      "phone": "081298765432"
+    },
+    {
+      "id": "a5b4c3d2-e1f6-7890-abcd-ef2109876543",
+      "branch": "Branch_18",
+      "account_name": "AccountName_3",
+      "number_of_publication": "20",
+      "phone": "081356789012"
+    },
+    {
+      "id": "c5d4b3a2-e1f6-7890-abcd-ef1234987650",
+      "branch": "Branch_29",
+      "account_name": "AccountName_4",
+      "number_of_publication": "25",
+      "phone": "081467890123"
+    },
+    {
+      "id": "e5f4d3c2-b1a6-7890-abcd-ef3412769085",
+      "branch": "Branch_53",
+      "account_name": "AccountName_5",
+      "number_of_publication": "30",
+      "phone": "081578901234"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "branch": "Branch_45",
+      "account_name": "AccountName_1",
+      "number_of_publication": "10",
+      "phone": "081234567890"
+    },
+    {
+      "id": "f1e2d3c4-b5a6-7890-abcd-ef0987654321",
+      "branch": "Branch_72",
+      "account_name": "AccountName_2",
+      "number_of_publication": "15",
+      "phone": "081298765432"
+    },
+    {
+      "id": "a5b4c3d2-e1f6-7890-abcd-ef2109876543",
+      "branch": "Branch_18",
+      "account_name": "AccountName_3",
+      "number_of_publication": "20",
+      "phone": "081356789012"
+    },
+    {
+      "id": "c5d4b3a2-e1f6-7890-abcd-ef1234987650",
+      "branch": "Branch_29",
+      "account_name": "AccountName_4",
+      "number_of_publication": "25",
+      "phone": "081467890123"
+    },
+    {
+      "id": "e5f4d3c2-b1a6-7890-abcd-ef3412769085",
+      "branch": "Branch_53",
+      "account_name": "AccountName_5",
+      "number_of_publication": "30",
+      "phone": "081578901234"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "d290f1ee-6c54-4b01-90e6-dc0c2d9cbce1",
+      "phone_number": "+6281234567890",
+      "provider": "telkomsel",
+      "pj": "Bapak Rudi",
+      "position": "Kepala Sekretariat",
+      "active_date": "2023-03-01T00:00:00.000Z",
+      "non_active_date": null
+    },
+    {
+      "id": "d290f1ee-6c54-4b01-90e6-dc0c2d9cbce2",
+      "phone_number": "+6281234567891",
+      "provider": "indosat",
+      "pj": "Ibu Sri",
+      "position": "Sekretaris",
+      "active_date": "2023-03-01T00:00:00.000Z",
+      "non_active_date": "2023-04-01T00:00:00.000Z"
+    },
+    {
+      "id": "d290f1ee-6c54-4b01-90e6-dc0c2d9cbce3",
+      "phone_number": "+6281234567892",
+      "provider": "xl",
+      "pj": "Bapak Anton",
+      "position": "Koordinator",
+      "active_date": "2023-03-01T00:00:00.000Z",
+      "non_active_date": null
+    }
+  ]
+}
